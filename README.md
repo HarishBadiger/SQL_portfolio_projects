@@ -1,1 +1,1 @@
-# This project contains data on credit card transactions and drawn the insights from this data set using SQL in MS sql server by basic filters, aggregation, window functions, cte's and sorting methods. 
+# This project contains data on credit card transactions and drawn the insights from this data set using Microsoft sql server by basic filters, aggregation, window functions, cte's and sorting methods. 
